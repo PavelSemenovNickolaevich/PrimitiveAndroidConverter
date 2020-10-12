@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Конвертер</string>
+    <string name="app_logo">Описание</string>
+    <string name="app_data">Описание</string>
+    <string name="name">Name</string>
+    <string name="inputNumber">Введите число</string>
+    <string name="ton">Количесттво тонн</string>
+    <string name="kg">Количесттво килограмм</string>
+    <string name="gr">Количесттво грамм</string>
+</resources>
